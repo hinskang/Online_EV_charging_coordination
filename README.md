@@ -5,7 +5,7 @@ An open-access online optimization framework to minimize CO2 emissions from mult
 To conduct online optimization, open the Main_ONCC via Juypter Notebook and run. Main_OFCC serves as the benchmark offline algorithm for comparison.
 
 
-The usage of other files:
+# The usage of other files:
 
 func_EVC: Data cleaning & Construct EV charging session datasets for running the simulation
 
@@ -32,7 +32,7 @@ EV_charging_load_uc: contains the EV charging load from the uncontrolled chargin
 pareto_oncc: contains the results of emission mitigation from the simulation of the online algorithm (Output of Main_ONCC)
 
 
-All the source data used in this study are open access. The references are as follows.
+# All the source data used in this study are open access. The references are as follows.
 
 U.S. Energy Information Administration, 2022. Electric System Operating Data. https://www.eia.gov/opendata/v1/qb.php?category=2123635 (accessed on 15 Oct. 2023).
 
